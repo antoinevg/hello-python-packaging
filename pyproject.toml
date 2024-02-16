@@ -5,6 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "deleteme"
 dynamic = ["version"]
+requires-python = ">=3.8"
 authors = [
     {name = "Antoine van Gelder", email = "antoine@flowdsp.io"},
 ]
